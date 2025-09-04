@@ -87,8 +87,6 @@ export default defineConfig({
       },
     },
   },
-
   site: 'https://tetsuyasugimoto-maker.github.io',
-	base: '/sublimecons/', // ルートなので'/'
-
+  base: '/sublimecons/',
 });
